@@ -26,7 +26,7 @@ A collection of personal projects.
 - [This Rabbit Does Not Exist](#this-rabbit-does-not-exist)
 - [UK VAT Calculator](#uk-vat-calculator)
 
-### [Birthday Calculator](https://leoreeves.github.io/projects/birthday-calculator/)
+### [Birthday Calculator](https://s7e-20.github.io/projects/birthday-calculator/)
 
 Work out how old you will be in the year entered and what day of the week your birthday is.
 
@@ -36,7 +36,7 @@ Built using:
 - CSS
 - JavaScript
 
-### [Block Breaker](https://leoreeves.github.io/projects/block-breaker/)
+### [Block Breaker](https://s7e-20.github.io/projects/block-breaker/)
 
 Based on the classic game [_Breakout_](<https://en.wikipedia.org/wiki/Breakout_(video_game)>).
 
@@ -48,7 +48,7 @@ Built using:
 - CSS
 - JavaScript
 
-### [Catch the Monster Game](https://leoreeves.github.io/projects/catch-the-monster-game/)
+### [Catch the Monster Game](https://s7e-20.github.io/projects/catch-the-monster-game/)
 
 Inspired by [this](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/) tutorial.
 
@@ -57,7 +57,7 @@ Built using:
 - HTML
 - JavaScript
 
-### [Nth Character Finder](https://leoreeves.github.io/projects/nth-character-finder/)
+### [Nth Character Finder](https://s7e-20.github.io/projects/nth-character-finder/)
 
 Find the nth character in a word.
 
@@ -68,7 +68,7 @@ Built using:
 - JavaScript
 - Vue.js
 
-### [Elliott Smith Tribute Page](https://leoreeves.github.io/projects/elliott-smith-tribute-page/)
+### [Elliott Smith Tribute Page](https://s7e-20.github.io/projects/elliott-smith-tribute-page/)
 
 A tribute page for the musician Elliott Smith built for _freeCodeCamp_.
 
@@ -78,7 +78,7 @@ Built using:
 - CSS
 - Bootstrap
 
-### [Geolocation Weather App](https://leoreeves.github.io/projects/geolocation-weather-app/)
+### [Geolocation Weather App](https://s7e-20.github.io/projects/geolocation-weather-app/)
 
 Simple weather app built for _freeCodeCamp_. It displays the local weather for the user based on browser geolocation.
 
@@ -90,7 +90,7 @@ Built using:
 - jQuery
 - AJAX
 
-### [Hex Colour Generator](https://leoreeves.github.io/projects/hex-colour-generator/)
+### [Hex Colour Generator](https://s7e-20.github.io/projects/hex-colour-generator/)
 
 Randomly generates a hex colour on user input.
 
@@ -110,7 +110,7 @@ Built using:
 - Sass
 - Ionic
 
-### [Issue Tracker](https://leoreeves.github.io/projects/issue-tracker/)
+### [Issue Tracker](https://s7e-20.github.io/projects/issue-tracker/)
 
 A small tracker app that allows a user to track issues which are then saved to their browser's local storage.
 
@@ -123,7 +123,7 @@ Built using:
 - JavaScript
 - Bootstrap
 
-### [JavaScript Calculator](https://leoreeves.github.io/projects/javascript-calculator/)
+### [JavaScript Calculator](https://s7e-20.github.io/projects/javascript-calculator/)
 
 A simple calculator built for _freeCodeCamp_.
 
@@ -133,7 +133,7 @@ Built using:
 - CSS
 - JavaScript
 
-### [Live Code Editor](https://leoreeves.github.io/projects/live-code-editor/)
+### [Live Code Editor](https://s7e-20.github.io/projects/live-code-editor/)
 
 An editor that lets you write HTML/CSS/JavaScript and see the results live in browser.
 
@@ -143,7 +143,7 @@ Built using:
 - CSS
 - JavaScript
 
-### [Matrix Terminal](https://leoreeves.github.io/projects/matrix-terminal/)
+### [Matrix Terminal](https://s7e-20.github.io/projects/matrix-terminal/)
 
 Inspired by [this](https://www.youtube.com/watch?v=Smwrw4sNCxE) scene from the movie _The Matrix_, a simulation of Neo's terminal.
 To achieve the typewriter effect I used [this](https://github.com/ckm100/typeWriter.js) script.
@@ -154,7 +154,7 @@ Built using:
 - CSS
 - JavaScript
 
-### [nickdraketabs.co.uk](https://leoreeves.github.io/projects/nickdraketabs.co.uk)
+### [nickdraketabs.co.uk](https://s7e-20.github.io/projects/nickdraketabs.co.uk)
 
 Gave the [original site](http://nickdraketabs.co.uk/) a facelift using CSS, replaced much of the original HTML and made it mobile-friendly.
 
@@ -166,7 +166,7 @@ Built using:
 - Nunjucks
 - Gulp
 
-### [Pomodoro Timer](https://leoreeves.github.io/projects/pomodoro-timer/)
+### [Pomodoro Timer](https://s7e-20.github.io/projects/pomodoro-timer/)
 
 A pomodoro timer built for _freeCodeCamp_.
 
@@ -176,7 +176,7 @@ Built using:
 - CSS
 - JavaScript
 
-### [Quotes on Design Generator](https://leoreeves.github.io/projects/quotes-on-design-generator/)
+### [Quotes on Design Generator](https://s7e-20.github.io/projects/quotes-on-design-generator/)
 
 Generates a random quote about design, built for _freeCodeCamp_.
 
@@ -206,7 +206,7 @@ Built using:
 - CSS
 - React
 
-### [Rental Rate Converter](https://leoreeves.github.io/projects/rental-rate-converter/)
+### [Rental Rate Converter](https://s7e-20.github.io/projects/rental-rate-converter/)
 
 Convert between weekly and monthly rental rates.
 
@@ -216,7 +216,7 @@ Built using:
 - CSS
 - JavaScript
 
-### [Simple Clock](https://leoreeves.github.io/projects/simple-clock/)
+### [Simple Clock](https://s7e-20.github.io/projects/simple-clock/)
 
 A clock that switches between analog and digital.
 
@@ -226,7 +226,7 @@ Built using:
 - CSS
 - Vue.js
 
-### [This Rabbit Does Not Exist](https://leoreeves.github.io/projects/this-rabbit-does-not-exist/)
+### [This Rabbit Does Not Exist](https://s7e-20.github.io/projects/this-rabbit-does-not-exist/)
 
 Displays a random photo of a rabbit generated by _[Stable Diffusion](https://github.com/CompVis/stable-diffusion)_.
 
@@ -236,7 +236,7 @@ Built using:
 - CSS
 - JavaScript
 
-### [UK VAT Calculator](https://leoreeves.github.io/projects/uk-vat-calculator/)
+### [UK VAT Calculator](https://s7e-20.github.io/projects/uk-vat-calculator/)
 
 A minimal calculator for quickly calculating VAT from an input amount.
 
